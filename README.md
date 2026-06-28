@@ -21,13 +21,13 @@ I have over 15 years of experience in GIS systems, including managing cadastral 
   Repository: [xml_ua_docs](https://github.com/krechkivsky/xml_ua_docs)
 
 - **JSON UA Plugin** – Working with various Ukrainian urban planning documentation  
-  Repository: [xml_ua_docs](https://github.com/krechkivsky/json_ua)
+  Repository: [json_ua](https://github.com/krechkivsky/json_ua)
 
 - **UA URBAN SCHEMA** – JSON Schema for validation of Ukrainian urban planning data (Order #56)  
-  Repository: [xml_ua_docs](https://github.com/krechkivsky/ua-urban-schema)
+  Repository: [ua-urban-schema](https://github.com/krechkivsky/ua-urban-schema)
 
 - **DCC OCR** – Dynamic Context Control for Precision Document OCR  
-  Repository: [xml_ua_docs](https://github.com/krechkivsky/dcc-ocr)
+  Repository: [dcc-ocr](https://github.com/krechkivsky/dcc-ocr)
 
 - **Legacy GIS (2005–2014)** – PostgreSQL / FreeBSD system for managing cadastral data of Lviv region
 
